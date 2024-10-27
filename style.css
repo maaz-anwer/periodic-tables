@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+ th{
+    border:1px solid black;
+     /* empty-cells: hide;  */
+ }
+ h1{
+    text-shadow: 10px 10px 11px white;
+    margin-top:81px ;
+    margin-left: 111px;
+    color: aqua;
+    font-style: italic;
+ }
+ h2{
+   text-shadow: 10px 10px 11px white;
+   color:aqua;
+ }
+ table{
+   margin-top: 80px;
+   margin-left: 100px;
+   border-spacing: 0;
+   /* display: inline-block ; */
+ }
+ .H{
+   background-color: green;
+   color: white;
+ }
+ .He{
+   background-color: darkgrey;
+   color:white
+ }
+ .k{
+   background-color: red;
+   color:white;
+ }
+ .li{
+   background-color: blue;
+   color:white;
+ }
+ .v{ 
+   background-color: purple;
+   color:white;
+ }
+ .a{
+   background-color: orange;
+   color:white;
+ }
+ .b{
+   background-color: yellow;
+   color:white;
+ }
+
+        
